@@ -11,3 +11,5 @@ This is the first commit for git main branch
 
 another type of merg feature is rebase
 commiting to devolepper needs
+
+Now devolepment is completed
