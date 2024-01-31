@@ -6,3 +6,8 @@ This is the first commit for git main branch
 
 * Devolopper is doing some commits of his developpment code
 * developper spend some time to develop a code and he will do lots of commits
+
+### rebase
+
+another type of merg feature is rebase
+commiting to devolepper needs
